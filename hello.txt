@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello from main
+=======
+Hello from conflict-demo
+>>>>>>> conflict-demo
 New line
 Github new line
